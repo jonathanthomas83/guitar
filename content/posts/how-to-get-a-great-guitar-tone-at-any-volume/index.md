@@ -8,6 +8,13 @@ tags:
 - guitar
 - amplifiers
 - load boxes
+cover:
+    image: "suhr-reactive-load-two-notes-cab.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Suhr Reactive Load and Two Notes C.A.B."
+    caption: "Suhr Reactive Load and Two Notes C.A.B."
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 **Stereo with one amp, wet/dry, no microphones, any speaker you can think of, consistent beautiful tone, low volume&hellip;a guitarists dream!**
 
@@ -71,7 +78,7 @@ This part is vital. There are lots of options here, but through research I found
 >
 > A reactive load or reactive attenuator lowers or completely loads down an amp’s output while maintaining the impedance curve, making the amp feel, sound, and respond similarly to when it’s connected directly to a cabinet. Resistive attenuators and loads eliminate that impedance curve. As a result, the tone and feel of the whole rig changes. Most players find that as attenuation increases on a resistive attenuator, the tone is affected, usually becoming more compressed and dark. Transparency is a big plus for me, so I’m a fan of reactive attenuators. — ([http://www.premierguitar.com/articles/22402-tone-tips-the-lowdown-on-load-boxes-attenuators-and-reamps](http://www.premierguitar.com/articles/22402-tone-tips-the-lowdown-on-load-boxes-attenuators-and-reamps))
 
-{{< figure src="suhr-reactive-load-two-notes-cab.jpeg" caption="Suhr Reactive Load and Two Notes Torpedo C.A.B." >}}
+{{< figure src="suhr-reactive-load-hd650.jpg" caption="Suhr Reactive Load and Sennheiser HD650 open back headphones. Image courtesy of Will Bowden (Instagram @willtombowden)." >}}
 
 I use a [***Suhr Reactive Load***](http://www.suhr.com/amplifiers-for-electric-guitars/Reactive-Load/). However, the [*Two Notes*](http://www.two-notes.com/en/hardware/torpedo-live/index.html) reactive load boxes are well regarded, as is the [*Fryette Power Station*](http://www.fryette.com/power-station-integrated-reactance-amplifier/).
 

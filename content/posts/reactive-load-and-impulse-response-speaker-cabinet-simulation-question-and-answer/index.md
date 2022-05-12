@@ -9,10 +9,14 @@ tags:
 - amplifiers
 - load boxes
 - microphones
+cover:
+    image: "/how-to-get-a-great-guitar-tone-at-any-volume/two-notes-wall-of-sound.png"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Two Notes Wall of Sound"
+    caption: "Two Notes Wall of Sound"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-
-
-{{< figure src="/how-to-get-a-great-guitar-tone-at-any-volume/two-notes-wall-of-sound.png" alt="Two Notes Wall of Sound" >}}
 
 I had a lot of questions after my first blog post — &ldquo;[How to get a great guitar tone at any volume]({{< ref "how-to-get-a-great-guitar-tone-at-any-volume" >}})&rdquo;. Here’s a few and I’ll add more over time. Feel free to ask more questions in the comments.
 

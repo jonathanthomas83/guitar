@@ -9,11 +9,16 @@ tags:
 - gear
 - amplifiers
 - pedals
+cover:
+    image: "pedals-2017.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "The culmination of my efforts to find the ultimate set of pedals that define my sound."
+    caption: "The culmination of my efforts to find the ultimate set of pedals that define my sound."
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 **The culmination of 5+ years of building my dream rig and the absolute pinnacle of what I think are my favourite sounds from these little stop boxes - this is my homage.**
-
-{{< figure src="pedals-2017.jpeg" caption="The culmination of my efforts to find the ultimate set of pedals that define my sound." >}}
 
 ## The gear
 

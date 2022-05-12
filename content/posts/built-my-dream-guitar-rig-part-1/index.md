@@ -9,11 +9,16 @@ tags:
 - gear
 - amplifiers
 - pedals
+cover:
+    image: "ultimate-rig-mesa-reeves.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "The rig of my dreams&hellip;but it didn’t last long."
+    caption: "The rig of my dreams&hellip;but it didn’t last long."
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 **Remember the days when it was all about the chase? You’d invest so much time into a relationship with the aim of finally being with the person of your dreams. Then one day, you realise you enjoyed the chase a little more than the relationship.**
-
-{{< figure src="ultimate-rig-mesa-reeves.jpeg" caption="The rig of my dreams&hellip;but it didn’t last long." >}}
 
 I’ve spent the last five years amassing the most incredible lineup of pedals, the tools that help define and sculpt my tone…my sound. I’ve got a beautiful amplifier, and four guitars that some could only dream of. Put it all together and it’s an impressive set of things to behold. It’s impressive in the way it sounds, and it looks amazing when all set out in front of you.
 

@@ -10,6 +10,13 @@ tags:
 - rig
 - gear
 - recording
+cover:
+    image: "fractal-axe-fx-ii-xl.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Fractal Audio Axe FX — Could this be the answer to the tone of my dreams?"
+    caption: "Fractal Audio Axe FX — Could this be the answer to the tone of my dreams?"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 **Sometimes, you just need to accept the facts.**
@@ -20,7 +27,7 @@ So, after finally coming to a place where I could accept that I had most of the 
 
 These limitations I felt were bug bears that I let go of at certain moments in time, but mostly just felt that my creativity was stifled by them.
 
-#### **That moment when you realise you’re doing it wrong*.**
+## **That moment when you realise you’re doing it wrong*.**
 
 **wrong for me*
 
@@ -30,7 +37,7 @@ It was at that moment I realised that I’m fighting against something that I ma
 
 This ability to keep the same amp but change a preset depending on your guitar seemed perfect for what I wanted to achieve, not to mention open up a whole world of possibilities not possible with a regular setup. But “surely it would never sound as good as my valve amp?”.
 
-#### More concerns
+## More concerns
 
 - I was never convinced about the portability of my pedal based rig, it’d be huge to lug around.
 - The amp has died on me once already, I wasn’t looking forward to that happening again.
@@ -41,7 +48,7 @@ But fundamentally, I just wasn’t getting close enough to the sounds I felt I n
 
 Quite simply, it was a monotonous and boring cycle of trying and testing new things and in the meantime losing lots of money on gear that I maybe wouldn’t like. And at the end of it, I didn’t ever get close to the sound I was after.
 
-#### The solution
+## The solution
 
 I’ll caveat this next section with “**this isn’t for everyone**”. For me, however, the answer was simple…try a digital modeller.
 
@@ -51,7 +58,7 @@ After watching a few video’s I came to realise that the *Axe FX* could be the 
 
 The idea was to try the *Axe* and see if I could get all the tones and effects set up the way I wanted them, compare them to my current setup and give it a few weeks to decide if it’s for me, one way or the other. Then simply sell off the *Axe FX* if it’s a no-go.
 
-#### Four days in…
+## Four days in…
 
 I won’t talk about day 1, or 2, or 3; though they gradually got better. They were full of headaches and user errors — not any fault of the actual unit. It took a good few hours of tweaks and more failures to get to day 4…that’s when things started to click, not least because I decided to read the manual a little.
 
@@ -65,7 +72,7 @@ Although I’m nowhere near finished with my amp presets, I decided to give the 
 
 I’ve got a fair way to go until I’m confident that all my effects and drives have been modelled in the *Axe FX*, but I’m more than confident now that I can actually pull that off.
 
-#### The conclusion and thoughts on the Axe FX
+## The conclusion and thoughts on the Axe FX
 
 I started this search for digital modelling back in November 2016 after years of interest in breakthrough technology. My ethos on pedal purchases was always to go modern and steer clear of vintage, with a couple of exceptions. For some reason, I felt more comfortable and confident in modern gear and believed that modern technology was always the way forward. I like things that push the boundaries and gravitate toward those things despite general resistance (and sometimes judgement) from the guitar fraternity.
 
