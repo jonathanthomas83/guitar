@@ -82,4 +82,4 @@ One downside, it certainly doesn’t look as cool as all those beautiful little 
 
 Perhaps my judgment is slowly proving my decisions to be correct; some of my closest friends have already complimented my leaner approach and smaller setup and have been impressed by the tones too…who am I to argue, especially when I agree!
 
-Perhaps the biggest compliment I can pay to the *Axe FX* is that I’m replacing [my dream rig](/built-my-dream-guitar-rig-part-2-the-dream-rig-2017/) with it, **that** is how good I think it is.
+Perhaps the biggest compliment I can pay to the *Axe FX* is that I’m replacing [my dream rig](built-my-dream-guitar-rig-part-2-the-dream-rig-2017) with it, **that** is how good I think it is.
