@@ -1,21 +1,33 @@
 ---
-title: One year later with the Fractal Axe FX II XL, was it a keeper in 2018?
-slug: one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper-in-2018
-date_published: 2018-06-30T00:00:00.000Z
-date_updated: 2021-11-09T23:00:19.000Z
-tags: Building my dream guitar rig, Amp modelling, Axe FX, Recording
-excerpt: In March 2017 I made the massive leap to a fully digital guitar rig. I can now document my year long journey from Axe FX newbie to massive digital convert.
+title: "One year later with the Fractal Axe FX II XL, was it a keeper in 2018?"
+date: 2018-06-30T00:00:00.000Z
+draft: false
+url: "one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper-in-2018"
+tags:
+- recording
+- amp modelling
+- axe fx
+- building my dream guitar rig
+cover:
+    image: "axe-fx-ii-xl.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Fractal Axe FX II XL"
+    caption: "Fractal Axe FX II XL"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-### Big investment
+**In March 2017 I made the massive leap to a fully digital guitar rig. I can now document my year long journey from Axe FX newbie to massive digital convert.**
 
-I had to sell a lot of my old analog gear, including my [amp and pedals](__GHOST_URL__/built-my-dream-guitar-rig-part-2-the-dream-rig-2017/), to get back some of the money I spent on the Axe FX II XL. It was a huge make or break investment of time, money and loss; of things I’d come to cherish. Ultimately, it paid off. Within weeks, I’d grown to love the sound I was getting out of an all in one unit.
+## Big investment
+
+I had to sell a lot of my old analog gear, including my [amp and pedals]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig-2017" >}}), to get back some of the money I spent on the Axe FX II XL. It was a huge make or break investment of time, money and loss; of things I’d come to cherish. Ultimately, it paid off. Within weeks, I’d grown to love the sound I was getting out of an all in one unit.
 
 Time is the big investment though. I spent a long time finding and perfectly tweaking the big high gain tones I needed. Fractal made this an incredibly in depth and addictive process of tweaking minor parameters in the amp block — preamp and power amp, cab block and EQ blocks. It’s a rewarding process when you think you’ve nailed it but it takes a while.
 
 However, I suffer from ear fatigue and I’d be second guessing the tone I’d created, thinking that a minor tweak here and there would make a difference. It was futile. The following day, I’d end up switching out an IR and things would change again. I think a lot of it comes down to confidence in whether the tones I was creating were good enough to be mix/live ready. I never felt that confident.
 
-# Why an Axe FX?
+## Why an Axe FX?
 
 I grew up with guitar magazines and Fractal’s Axe FX always took pride and place on the inside cover or somewhere inside. The likes of John Petrucci, Steve Vai and so many others raving about how good and realistic it was. It was an expensive investment but honestly, I didn’t really pay any attention to the competition, the Fractal is what I wanted.
 
@@ -23,7 +35,7 @@ I tried the Helix though, just to get a taste of things to come and did a lot of
 
 I tried it, and it did.
 
-# A year of Axe FX
+## A year of Axe FX
 
 I loved it from the outset. It delivered everything. High gain, pristine clean and everything in between. It delivered all the delays and modulations I could ever dream of and the reverbs were incredible too. I didn’t struggle to recreate my favourite pedals or tones. It was a fantastic year of creating new sounds.
 
@@ -31,12 +43,14 @@ However, that’s all I ever seemed to do was create new sounds because I could 
 
 Still I loved playing the Axe FX and will always be a big advocate of it.
 
-# Why did I sell the Axe FX?
+## Why did I sell the Axe FX?
 
 So, it’s January 2018 and I’m having serious doubts about the portability of my rig and was toying with the idea of buying an AX8 to see if I could fit everything I do into a small floor board sized package. I came to the conclusion that it wouldn’t be powerful enough for my FX needs, and the extra horsepower of the flagship Axe FX was where I’d have to stay if I wanted millions of reverbs and delays to run in tandem.
 
 Then, like magic, Fractal announced the Axe FX III. More power, more delay, more reverb, more IR’s(!), quicker preset changes…more money. I was immediately sold and put myself on the waiting list.
-![Fractal Axe FX III](__GHOST_URL__/content/images/2021/11/1-GmPSHeZa9ayv5CMdfDGY9w.jpeg)Fractal Axe FX III
+
+{{< figure src="axe-fx-iii.jpeg" caption="Fractal Axe FX III" width="720">}}
+
 The rack thing never really clicked with me though. It felt big, bulky, unnecessary. I’d have to buy a rack case too and the Axe FX II wasn’t a standard depth, it was a big old beast. I craved more portability and a neater package.
 
 Three months had passed since going on the European waiting list, I’d sold the Axe FX II to fund my purchase and I quickly grew tired of messing about with amp plugins. April 2018 and rumour was that the Axe FX III wouldn’t hit UK shores until June (I’m writing this today, 30th June, and I’ve still not had the invite to purchase). Frustrating.
@@ -47,12 +61,12 @@ By this point, videos started trickling through on YouTube and I admit, I wasn�
 
 I was shocked. Genuinely shocked at what I was hearing. The Kemper blew the Axe FX III away tone-wise. It sounded more real and amp-like to my ears. Bear in mind, I wasn’t even watching this video for the Kemper — I expected nothing from it. This video turned my head. I’d also heard that [the “instant switching” wasn’t as instant as I’d hoped](https://forum.fractalaudio.com/threads/scene-preset-switching-latency.137181/)…maybe Axe FX III wasn’t for me after all!
 
-# Did I miss the Axe FX?
+## Did I miss the Axe FX?
 
 At this point, I’d been messing about with plugins for about two months. I’d found some [lovely reverb plugins](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) and [some great delays](https://www.native-instruments.com/en/products/komplete/effects/replika-xt/). The only thing missing was the core tone. I quickly realised that maybe I didn’t need to spend as much as £2700+ on the new Fractal unit to get what I wanted.
 
-It got me thinking about my core tone and amps again, maybe a clean amp with pedals? [Nah, been there, done that](__GHOST_URL__/built-my-dream-guitar-rig-part-2-the-dream-rig-2017/).
+It got me thinking about my core tone and amps again, maybe a clean amp with pedals? [Nah, been there, done that]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig-2017" >}}).
 
-# What next?…Kemper?
+## What next?…Kemper?
 
-Sounded like an amp to me…worth a punt, read this to see how it worked out… [https://redchairriffs.com/building-my-dream-guitar-rig-2018-kemper-profiler/](__GHOST_URL__/building-my-dream-guitar-rig-2018-kemper-profiler/)
+Sounded like an amp to me…worth a punt, read this to see how it worked out&hellip;[Building my dream guitar rig. 2018: Kemper Profiler]({{< ref "building-my-dream-guitar-rig-2018-kemper-profiler" >}})

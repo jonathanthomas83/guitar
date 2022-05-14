@@ -1,9 +1,20 @@
 ---
 title: "Building my dream guitar rig. 2018: Kemper Profiler"
-slug: building-my-dream-guitar-rig-2018-kemper-profiler
-date_published: 2018-06-30T01:00:00.000Z
-date_updated: 2021-11-09T22:54:45.000Z
-tags: Building my dream guitar rig, Amp modelling, Kemper, Recording
+date: 2018-06-30T01:00:00.000Z
+draft: false
+url: "building-my-dream-guitar-rig-2018-kemper-profiler"
+tags:
+- recording
+- amp modelling
+- kemper
+- building my dream guitar rig
+cover:
+    image: "axe-fx-ii-xl.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Fractal Axe FX II XL"
+    caption: "Fractal Axe FX II XL"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 After seeing a video comparing the Axe FX III and the Kemper (that has unfortunately now been deleted by its maker, [Camilo Velandia](https://www.youtube.com/user/camilovelandiamusic)— an Axe FX III owner) which I spoke about in my previous post, “[One year later with the Fractal Axe FX II XL, was it a keeper in 2018?](__GHOST_URL__/one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper-in-2018/)”, my first instinct was to try the Kemper in the interim, whilst I wait for the Axe FX III to arrive in the country.
@@ -88,7 +99,7 @@ There isn't one. *[Update 2020: it has one now and it's great!]*
 
 This suits me. I’ve come from relying on Axe Edit to change settings on the Axe FX and I find it incredibly liberating not to be tied to the computer monitor to make changes to my Kemper.
 
-I don’t need an editor and don’t want one (am concerned that the front panel UI accessibility may suffer, I’d hope it wouldn’t be affected), [but there’s a massive debate about the fact that Kemper needs one](https://www.kemper-amps.com/forum/index.php/Thread/19698-Can-we-please-get-some-kind-of-Kemper-Editor-Software-for-your-computer/). 
+I don’t need an editor and don’t want one (am concerned that the front panel UI accessibility may suffer, I’d hope it wouldn’t be affected), [but there’s a massive debate about the fact that Kemper needs one](https://www.kemper-amps.com/forum/index.php/Thread/19698-Can-we-please-get-some-kind-of-Kemper-Editor-Software-for-your-computer/).
 
 Helix and Fractal beat the Kemper with this.
 
