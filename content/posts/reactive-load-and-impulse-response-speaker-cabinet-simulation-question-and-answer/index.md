@@ -10,7 +10,7 @@ tags:
 - load boxes
 - microphones
 cover:
-    image: "/how-to-get-a-great-guitar-tone-at-any-volume/two-notes-wall-of-sound.png"
+    image: "how-to-get-a-great-guitar-tone-at-any-volume/two-notes-wall-of-sound.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Two Notes Wall of Sound"
