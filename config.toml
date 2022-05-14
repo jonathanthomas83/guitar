@@ -1,4 +1,4 @@
-baseURL = 'https://jonathanthomas83.github.io/guitar'
+baseURL = 'https://jonathanthomas83.github.io/guitar/'
 languageCode = 'en-us'
 title = 'Guitar'
 theme = 'PaperMod'
