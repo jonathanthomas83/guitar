@@ -1,11 +1,20 @@
 ---
-title: Expensive amplifier, cheap guitar...
-slug: expensive-amplifier-cheap-guitar
-date_published: 2019-04-15T00:00:00.000Z
-date_updated: 2021-11-10T12:36:16.000Z
-tags: Amplifiers, Guitar
-excerpt: Everyone knows that’s the rule, right?
+title: "Expensive amplifier, cheap guitar..."
+date: 2019-04-15T00:00:00.000Z
+draft: false
+url: "expensive-amplifier-cheap-guitar"
+tags:
+- amplifiers
+- guitar
+cover:
+    image: "sitting-on-an-amp.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Man sitting on an amp playing guitar"
+    caption: "What does this guy think?! ☝️"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+Photo by [Clem Onojeghuo](https://www.pexels.com/@conojeghuo?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)  from [Pexels](https://www.pexels.com/photo/adult-amplifier-band-bass-guitar-375893/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) .
 
 I grew up swearing by this ethos. If I had a good amp, it would pretty much mask anything, old strings, a rubbish guitar made of driftwood, bad technique…okay, not so much, but I’ll stand by the guitar part.
 
