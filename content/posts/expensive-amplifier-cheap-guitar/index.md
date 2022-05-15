@@ -14,7 +14,9 @@ cover:
     caption: "What does this guy think?! ☝️"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-Photo by [Clem Onojeghuo](https://www.pexels.com/@conojeghuo?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels)  from [Pexels](https://www.pexels.com/photo/adult-amplifier-band-bass-guitar-375893/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels).
+*Photo by [Clem Onojeghuo](https://www.pexels.com/@conojeghuo?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels) from [Pexels](https://www.pexels.com/photo/adult-amplifier-band-bass-guitar-375893/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels).*
+
+**Expensive amplifier, cheap guitar. Everyone knows that's the rule, right?**
 
 I grew up swearing by this ethos. If I had a good amp, it would pretty much mask anything, old strings, a rubbish guitar made of driftwood, bad technique…okay, not so much, but I’ll stand by the guitar part.
 
