@@ -49,7 +49,7 @@ So, it’s January 2018 and I’m having serious doubts about the portability of
 
 Then, like magic, Fractal announced the Axe FX III. More power, more delay, more reverb, more IR’s(!), quicker preset changes…more money. I was immediately sold and put myself on the waiting list.
 
-{{< figure src="axe-fx-iii.jpeg" caption="Fractal Axe FX III" width="720">}}
+{{< figure src="axe-fx-iii.jpeg" caption="Fractal Axe FX III" >}}
 
 The rack thing never really clicked with me though. It felt big, bulky, unnecessary. I’d have to buy a rack case too and the Axe FX II wasn’t a standard depth, it was a big old beast. I craved more portability and a neater package.
 
