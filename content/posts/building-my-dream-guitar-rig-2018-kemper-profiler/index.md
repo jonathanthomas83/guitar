@@ -48,7 +48,9 @@ The main thing for me was the lack of tweaking involved. That’s not to say tha
 Delays are my thing, I’m a huge delay user, Kemper delivers amazing delays. Chorus, phaser, flanger, I use them all sparingly, but they sound great for my needs. Compressor sounds fantastic.
 
 Initially the drives sounded better than I thought they would be, but after a bit of usage, I quickly realised they’d be unusable for my personal tastes. I needed more from the Big Muff modelling, and the Distortion+ modelling didn’t sound even half as good as the Axe FX version. I’ve heard that Kemper are putting some work in to them though, so more to come, I expect!
-The new Kemper reverbs
+
+{{< youtube id="5hE4sUYKEfg" title="The new Kemper reverbs" >}}
+
 Reverbs are ok, but not Strymon quality. But again, I have plugins for that now and love [Valhalla](https://valhalladsp.com/) for most of my needs. That said, Kemper are putting effort into new reverbs and from what I’ve heard, they sound pretty great!
 
 I toyed with the idea of getting my favourite delay and reverb pedals to use with the Kemper when it arrived — and for taking out on the road. But now I’ve played around with it, I really don’t need another delay or reverb pedal — especially now we have new reverbs on the way (as of writing, the new reverbs are being revealed at Summer NAMM 2018).
