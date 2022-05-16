@@ -82,7 +82,9 @@ The Mesa and Laney are the bread and butter amps that I play everything I write 
 ### Out: Mesa Boogie Rectifer Roadster
 
 ### In: Mesa Boogie Multi-Watt Dual Rectifer
-![Mesa Boogie Multi-Watt Dual Rectifier and Laney Lionheart L20H](__GHOST_URL__/content/images/2021/11/1-nC1WCb4psDLVkDb-6Sgr-g.jpeg)Mesa Boogie Multi-Watt Dual Rectifier and Laney Lionheart L20H
+
+{{< figure src="mesa-dual-laney-lionheart.jpeg" caption="Mesa Boogie Multi-Watt Dual Rectifier and Laney Lionheart L20H" >}}
+
 Having thoughts in the back of your mind wondering if the “grass is greener” isn’t productive and doesn’t always ring true. In this case however, it was a very rare occasion where it delivered the exact tone I had in my head and the concerns I had about the differences between the Roadster and perhaps a more authentic Recto experience with a Multi-Watt were fully justified, as great as the Roadster was, it was definitely a different sounding beast.
 
 I managed to recoup what I paid for the Roadster and immediately bought a Multi-Watt on the same day I sold it.
@@ -91,7 +93,7 @@ I managed to recoup what I paid for the Roadster and immediately bought a Multi-
 
 Putting a Maxon OD808 in front of both the Rectifiers I’ve owned this year has been a spiritual experience. Something I’d never tried ***properly*** before.
 
-I’m ashamed to say that I didn’t realise how it worked or how to set it to boost and tighten the somewhat surprisingly flubby Rectifier gain channel, [which is something that I struggled with when I first tried a Dual Rec through the Suhr Reactive Load](__GHOST_URL__/built-my-dream-guitar-rig-part-1/).
+I’m ashamed to say that I didn’t realise how it worked or how to set it to boost and tighten the somewhat surprisingly flubby Rectifier gain channel, [which is something that I struggled with when I first tried a Dual Rec through the Suhr Reactive Load]({{< ref "built-my-dream-guitar-rig-part-1" >}}).
 
 > But since I tried the Maxon, at full tilt on the volume (100% volume) and gain fairly low (0% gain) and tone to taste, I’ve not looked back.
 
@@ -112,7 +114,9 @@ I will be back for a Plexi!
 My reasons for selling the SV20H ‘Plexi’ was so that I could concentrate on “my sound”. Not content with the Mesa, I’ve always wanted a JCM 800 as it’s pretty much the opitome of sound that shaped my teens. It’s an amp used on countless records and when I think of distortion or overdrive, the sound that comes to mind is usually the sound of a cranked JCM 800.
 
 What I like about the Marshall is that it is a relatively clean amp, with a beautifully voiced crunch without a Tube Screamer. I could play for days at low gain, it can create some incredible ambience. But with a boost in front, it can do heavy and tight rock tones that are perfect for the style of music I play.
-![The tower of power Mk. I, including the Marshall JCM 800 2203 reissue, Mesa Boogie Dual Rectifier and Laney Lionheart L20H](__GHOST_URL__/content/images/2021/11/IMG_20200305_170524.jpg)The tower of power Mk. I, including the Marshall JCM 800 2203 reissue, Mesa Boogie Dual Rectifier and Laney Lionheart L20H
+
+{{< figure src="marshall-jcm800-mesa-dual-laney-lionheart.jpg" caption="The tower of power Mk. I, including the Marshall JCM 800 2203 reissue, Mesa Boogie Dual Rectifier and Laney Lionheart L20H" >}}
+
 ## Conclusion
 
 It took a long time to realise how my gear works and how to get the best of it. I’m now on my *fourth* Mesa Rectifier (ridiculous) and *fifth* Laney Lionheart (mostly different wattages, to be fair, but no less ridiculous).
