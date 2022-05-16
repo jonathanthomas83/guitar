@@ -19,7 +19,7 @@ cover:
 
 Back in January 2019 NAMM I’d heard about the brand new Marshall JCM800 SC20H Studio head, but thought nothing of it as I was still in full flow, Kemper-loving heaven. The Kemper had killed my “GAS” for amplifiers successfully for the last 12 months or so, but recently, [my passion for amps]({{< ref "expensive-amplifier-cheap-guitar" >}}) has bitten me, with a vengeance.
 
-[I had a brief flirt with amps back in January 2019, but it didn’t amount to much as ultimately, the amp in question didn’t quite live up to my expectations]({{< ref "kemper-owner-for-a-year-and-why-im-returning-to-valves-in-2019" >}}) and the Kemper trumped it in terms of versatility. But returning all the gear I bought didn’t quite kill the urge to go back to amps on permanent basis.
+[I had a brief flirt with amps back in January 2019, but it didn’t amount to much as ultimately, the amp in question didn’t quite live up to my expectations]({{< ref "kemper-owner-for-a-year-and-why-im-returning-to-valves" >}}) and the Kemper trumped it in terms of versatility. But returning all the gear I bought didn’t quite kill the urge to go back to amps on permanent basis.
 
 ## The music shop effect
 

@@ -1,8 +1,8 @@
 ---
-title: "Kemper owner for a year and why I’m returning to valves in 2019"
+title: "Kemper owner for a year and why I’m returning to valves"
 date: 2019-04-13T00:00:00.000Z
 draft: false
-url: "kemper-owner-for-a-year-and-why-im-returning-to-valves-in-2019"
+url: "kemper-owner-for-a-year-and-why-im-returning-to-valves"
 tags:
 - amplifiers
 - load boxes

@@ -1,8 +1,8 @@
 ---
-title: "Why I returned to real guitar amplifiers in 2020 after using Kemper and Axe FX"
+title: "Why I returned to real guitar amplifiers after using Kemper and Axe FX"
 date: 2020-05-25T00:00:00.000Z
 draft: false
-url: "why-i-returned-to-real-guitar-amplifiers-in-2020-after-using-kemper-and-axe-fx"
+url: "why-i-returned-to-real-guitar-amplifiers-after-using-kemper-and-axe-fx"
 tags:
 - amplifiers
 - load boxes
@@ -21,7 +21,7 @@ cover:
 
 **Two years of using digital amps lead me back to the real thing.**
 
-The last year (2019) has been a massive overhaul for me, in terms of gear. I started the year with a Kemper Profiler and many of you will know that I have [raved about that piece of kit]({{< ref "building-my-dream-guitar-rig-2018-kemper-profiler" >}}) for the best part of 18 months now. It’s a game changer. However, I missed the [flexibility of real amps and pedals]({{< ref "kemper-owner-for-a-year-and-why-im-returning-to-valves-in-2019" >}}) at my fingertips.
+The last year (2019) has been a massive overhaul for me, in terms of gear. I started the year with a Kemper Profiler and many of you will know that I have [raved about that piece of kit]({{< ref "building-my-dream-guitar-rig-kemper-profiler" >}}) for the best part of 18 months now. It’s a game changer. However, I missed the [flexibility of real amps and pedals]({{< ref "kemper-owner-for-a-year-and-why-im-returning-to-valves" >}}) at my fingertips.
 
 I’ve come full circle and spent too much along the way in order to come back there. But all is not lost, I’ve now got killer tone and learned a lot along the way!
 

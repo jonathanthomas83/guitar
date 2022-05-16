@@ -1,8 +1,8 @@
 ---
-title: "One year later with the Fractal Axe FX II XL, was it a keeper in 2018?"
+title: "One year later with the Fractal Axe FX II XL, was it a keeper?"
 date: 2018-06-30T00:00:00.000Z
 draft: false
-url: "one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper-in-2018"
+url: "one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper"
 tags:
 - recording
 - amp modelling
@@ -21,7 +21,7 @@ cover:
 
 ## Big investment
 
-I had to sell a lot of my old analog gear, including my [amp and pedals]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig-2017" >}}), to get back some of the money I spent on the Axe FX II XL. It was a huge make or break investment of time, money and loss; of things I’d come to cherish. Ultimately, it paid off. Within weeks, I’d grown to love the sound I was getting out of an all in one unit.
+I had to sell a lot of my old analog gear, including my [amp and pedals]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig" >}}), to get back some of the money I spent on the Axe FX II XL. It was a huge make or break investment of time, money and loss; of things I’d come to cherish. Ultimately, it paid off. Within weeks, I’d grown to love the sound I was getting out of an all in one unit.
 
 Time is the big investment though. I spent a long time finding and perfectly tweaking the big high gain tones I needed. Fractal made this an incredibly in depth and addictive process of tweaking minor parameters in the amp block — preamp and power amp, cab block and EQ blocks. It’s a rewarding process when you think you’ve nailed it but it takes a while.
 
@@ -65,8 +65,8 @@ I was shocked. Genuinely shocked at what I was hearing. The Kemper blew the Axe 
 
 At this point, I’d been messing about with plugins for about two months. I’d found some [lovely reverb plugins](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) and [some great delays](https://www.native-instruments.com/en/products/komplete/effects/replika-xt/). The only thing missing was the core tone. I quickly realised that maybe I didn’t need to spend as much as £2700+ on the new Fractal unit to get what I wanted.
 
-It got me thinking about my core tone and amps again, maybe a clean amp with pedals? [Nah, been there, done that]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig-2017" >}}).
+It got me thinking about my core tone and amps again, maybe a clean amp with pedals? [Nah, been there, done that]({{< ref "built-my-dream-guitar-rig-part-2-the-dream-rig" >}}).
 
 ## What next?…Kemper?
 
-Sounded like an amp to me…worth a punt, read this to see how it worked out&hellip;[Building my dream guitar rig. 2018: Kemper Profiler]({{< ref "building-my-dream-guitar-rig-2018-kemper-profiler" >}})
+Sounded like an amp to me…worth a punt, read this to see how it worked out&hellip;[Building my dream guitar rig. 2018: Kemper Profiler]({{< ref "building-my-dream-guitar-rig-kemper-profiler" >}})

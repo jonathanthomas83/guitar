@@ -1,8 +1,8 @@
 ---
-title: "Building my dream guitar rig. 2018: Kemper Profiler"
+title: "Building my dream guitar rig. Kemper Profiler"
 date: 2018-06-30T01:00:00.000Z
 draft: false
-url: "building-my-dream-guitar-rig-2018-kemper-profiler"
+url: "building-my-dream-guitar-rig-kemper-profiler"
 tags:
 - recording
 - amp modelling
@@ -17,7 +17,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-After seeing a video comparing the Axe FX III and the Kemper (that has unfortunately now been deleted by its maker, [Camilo Velandia](https://www.youtube.com/user/camilovelandiamusic)— an Axe FX III owner) which I spoke about in my previous post, “[One year later with the Fractal Axe FX II XL, was it a keeper in 2018?]({{< ref "one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper-in-2018" >}})”, my first instinct was to try the Kemper in the interim, whilst I wait for the Axe FX III to arrive in the country.
+After seeing a video comparing the Axe FX III and the Kemper (that has unfortunately now been deleted by its maker, [Camilo Velandia](https://www.youtube.com/user/camilovelandiamusic)— an Axe FX III owner) which I spoke about in my previous post, “[One year later with the Fractal Axe FX II XL, was it a keeper in 2018?]({{< ref "one-year-later-with-the-fractal-axe-fx-ii-xl-was-it-a-keeper" >}})”, my first instinct was to try the Kemper in the interim, whilst I wait for the Axe FX III to arrive in the country.
 
 I’d planned to spend 2 weeks with it and then send it back to the shop. With the aim of seeing what it’s about, what it could offer me and to get away from using amp modelling plugins.
 
