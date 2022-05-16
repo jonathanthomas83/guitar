@@ -1,20 +1,36 @@
 ---
-title: My return to real guitar amplifiers after using Kemper and Axe FX
-slug: my-return-to-real-guitar-amplifiers-after-using-kemper-and-axe-fx
-date_published: 2020-05-25T00:00:00.000Z
-date_updated: 2021-11-30T11:11:04.000Z
-tags: Building my dream guitar rig, Amplifiers, Amp modelling, Axe FX, Kemper
-excerpt: Two years of using digital amps lead me back to the real thing.
+title: "Why I returned to real guitar amplifiers in 2020 after using Kemper and Axe FX"
+date: 2020-05-25T00:00:00.000Z
+draft: false
+url: "why-i-returned-to-real-guitar-amplifiers-in-2020-after-using-kemper-and-axe-fx"
+tags:
+- amplifiers
+- load boxes
+- amp modelling
+- axe fx
+- kemper
+- building my dream guitar rig
+cover:
+    image: "marshall-sv20-on-red-chair.jpeg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "Marshall SV20H 20w Plexi-style head — such a classy amplifier!"
+    caption: "Marshall SV20H 20w Plexi-style head — such a classy amplifier!"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-The last year (2019) has been a massive overhaul for me, in terms of gear. I started the year with a Kemper Profiler and many of you will know that I have [raved about that piece of kit](__GHOST_URL__/building-my-dream-guitar-rig-2018-kemper-profiler/) for the best part of 18 months now. It’s a game changer. However, I missed the [flexibility of real amps and pedals](__GHOST_URL__/kemper-owner-for-a-year-and-why-im-returning-to-valves-in-2019/) at my fingertips.
+**Two years of using digital amps lead me back to the real thing.**
+
+The last year (2019) has been a massive overhaul for me, in terms of gear. I started the year with a Kemper Profiler and many of you will know that I have [raved about that piece of kit]({{< ref "building-my-dream-guitar-rig-2018-kemper-profiler" >}}) for the best part of 18 months now. It’s a game changer. However, I missed the [flexibility of real amps and pedals]({{< ref "kemper-owner-for-a-year-and-why-im-returning-to-valves-in-2019" >}}) at my fingertips.
 
 I’ve come full circle and spent too much along the way in order to come back there. But all is not lost, I’ve now got killer tone and learned a lot along the way!
 
 ## January 2019
 
 ### In and Out: Victory The Super Kraken
-![Victory The Super Kraken and Suhr Reactive Load I.R.](__GHOST_URL__/content/images/2021/11/1-eRe7yVPSs6KwpLI4CF01MA.jpeg)Victory The Super Kraken and Suhr Reactive Load I.R.
+
+{{< figure src="victory-super-kraken-suhrir.jpeg" caption="Victory The Super Kraken and Suhr Reactive Load I.R." >}}
+
 In order to scratch an itch early in January, I loved what I’d heard of the demo’s for The Super Kraken, I’m a big fan of Rabea Massad’s sound and really wanted to love this amp. It was nice and was furnished with plenty of useful accoutrements, but ultimately was too dark for my tastes. I sent it back and wrote off my dabbles with amps…for a couple of months at least!
 
 ## April 2019
@@ -30,8 +46,10 @@ Thankfully, the Kemper is an expensive piece of kit and it maintained its value,
 As it stood though, I was in no mood to try out new gear, I like what I like and fully planned to go full circle, back to the amps I’d grown up loving.
 
 ### In: Mesa Boogie Dual Rectifier Roadster
-![Mesa Boogie Dual Rectifier Roadster](__GHOST_URL__/content/images/2021/11/1-UXzOohQXFFJWhK5bWeHEgA.jpeg)Mesa Boogie Dual Rectifier Roadster
-First port of call was a Mesa Dual Rec. This came up at a good price and I liked the idea of having a British sounding channel, it would save me getting a Marshall…yeah right!
+
+{{< figure src="mesa-dual-rectifier-roadster.jpeg" caption="Mesa Boogie Dual Rectifier Roadster" >}}
+
+First port of call was a Mesa Dual Rec. This came up at a good price and I liked the idea of having a British sounding channel, it would save me getting a Marshall&hellip;yeah right!
 
 It turns out that it never worked out that way. The Roadster was a beautiful amp, sounded great, but I could never get the newer Multi-Watt with the classic metal grille out of my mind whenever I switched it on and wondered if I was missing something.
 
@@ -44,7 +62,9 @@ The “British” channel never got used and was useless to me, to my ears it di
 Shortly after the Roadster, I saught another Laney Lionheart head. I say “another” as it’s an amp that has haunted me since I discovered it back in 2011. I love these amps.
 
 I needed a clean platform that I could put my pedals through and for me, the Laney Lionheart clean channel is MY sound. It sounds incredible for my needs and is perfect for any drive pedals I put through it. Really brings out the best of my gear, guitars, pedals and most importantly, my playing.
-![Gilmour, Laney Lionheart and Mesa Dual Rec Roadster!](__GHOST_URL__/content/images/2021/11/1-cJ2MS7q_Ki2IlbkH7vGyiQ.jpeg)Gilmour, Laney Lionheart and Mesa Dual Rec Roadster!
+
+{{< figure src="laney-lionheart-mesa-roadster.jpeg" caption="David Gilmour, Laney Lionheart and Mesa Dual Rec Roadster!" >}}
+
 ## May 2019
 
 ### In: Marshall SV20H 20w Plexi-style head
